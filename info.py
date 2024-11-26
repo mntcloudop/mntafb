@@ -107,7 +107,7 @@ VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/How_To_Watch_Down
 
 # Shortlink Info
 SHORTLINK_MODE = bool(environ.get('SHORTLINK_MODE', True))
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'publicearn.com')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'publicearn.in')
 SHORTLINK_API = environ.get('SHORTLINK_API', '109cfcf20cb6bf157522d6ba29ab8ddd70a4ac10')
 
 # Others
