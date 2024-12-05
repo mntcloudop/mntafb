@@ -107,13 +107,13 @@ VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/How_To_Watch_Down
 
 # Shortlink Info
 SHORTLINK_MODE = bool(environ.get('SHORTLINK_MODE', True))
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'publicearn.in')
-SHORTLINK_API = environ.get('SHORTLINK_API', '109cfcf20cb6bf157522d6ba29ab8ddd70a4ac10')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'instantearn.in ')
+SHORTLINK_API = environ.get('SHORTLINK_API', '61efdd75f7887fe2bf94b579441fccae56d81fdf')
 
 # Others
 MAX_B_TN = environ.get("MAX_B_TN", "5")
 PORT = environ.get("PORT", "8080")
-MSG_ALRT = environ.get('MSG_ALRT', 'Join @MnT_Linkss For Updates')
+MSG_ALRT = environ.get('MSG_ALRT', 'Join @MnTLinkss For Updates')
 CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", f"{script.CAPTION}")
 BATCH_FILE_CAPTION = environ.get("BATCH_FILE_CAPTION", CUSTOM_FILE_CAPTION)
 IMDB_TEMPLATE = environ.get("IMDB_TEMPLATE", f"{script.IMDB_TEMPLATE_TXT}")
